@@ -1,0 +1,10 @@
+
+.container h1{
+    color: lightblue ;
+    background-color: lightcoral;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
